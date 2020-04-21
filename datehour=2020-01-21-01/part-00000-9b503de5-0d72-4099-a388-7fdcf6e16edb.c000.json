@@ -1,4 +1,0 @@
-{"timestamp":"2020-01-21T01:00:45Z","id":"cf7a6e5d-c215-4228-8b97-c138e56bd651","type":"pageview","domain":"www.website.com","user":{"id":"a92fc4c1-7e90-413b-9edf-73d9ca585b95","consent":true,"country":"US"}}
-{"timestamp":"2020-01-21T01:12:34Z","id":"d1b17b38-ab59-4644-a980-da25b79039ac","type":"pageview","domain":"www.website.com","user":{"id":"1a4de892-dedd-48bf-8183-baadd499403f","consent":true,"country":"US"}}
-{"timestamp":"2020-01-21T01:13:34Z","id":"67a85cc7-e4e6-4426-b5e7-d1f931fa9621","type":"pageview","domain":"www.website.com","user":{"id":"5a36675a-cff6-4b92-a9ea-60eee68e52a1","consent":true,"country":"FR"}}
-{"timestamp":"2020-01-21T01:14:34Z","id":"4166d0c1-6337-4958-ba58-aaf9ede34df0","type":"pageview","domain":"www.other-website.com","user":{"id":"2b2b9313-6b84-490d-9967-0beb9f38ea4b","consent":true,"country":"FR"}}
