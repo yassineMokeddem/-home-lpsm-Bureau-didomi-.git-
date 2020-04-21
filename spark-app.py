@@ -50,13 +50,17 @@ if __name__ == '__main__':
 
 	df_pageviews = json_df.filter(json_df['type'] == 'pageview')
 	pageviews = df_pageviews.count()
-	pageviews_with_consent = df_pageviews.filter(json_df['user_consent'] == True).count()
+	pageviews_with_consent = df_pageviews.filter(json_df['user_consent'] == True)\
+													 .count()
 
 	df_consent_asked = json_df.filter(json_df['type'] == 'consent.asked')
 	consents_asked = df_consent_asked.count()
-	consents_asked_with_consent = df_consent_asked.filter(json_df['user_consent'] == True).count()
+	consents_asked_with_consent = df_consent_asked.filter(json_df['user_consent'] == True)\
+																 .count()
 
 	df_consent_given = json_df.filter(json_df['type'] == 'consent.given')
 	consents_given = df_consent_given.count()
-	consents_given_with_consent =  df_consent_given.filter(json_df['user_consent'] == True).count()
+	consents_given_with_consent =  df_consent_given.filter(json_df['user_consent'] == True)\
+																  .count()
+																  
 	users = json_df.select(("user_id")).distinct().count()
