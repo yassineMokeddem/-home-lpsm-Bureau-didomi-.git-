@@ -1,4 +1,0 @@
-{"timestamp":"2020-01-21T00:19:34Z","id":"94cabac0-088c-43d3-976a-88756d21132a","type":"pageview","domain":"www.website.com","user":{"id":"09fcb803-2779-4096-bcfd-0fb1afef684a","consent":false,"country":"US"}}
-{"timestamp":"2020-01-21T00:19:34Z","id":"b7abdb97-4915-499e-a0b5-3911f35317e7","type":"consent.asked","domain":"www.website.com","user":{"id":"09fcb803-2779-4096-bcfd-0fb1afef684a","consent":false,"country":"US"}}
-{"timestamp":"2020-01-21T00:19:46Z","id":"03040f54-d0c6-4356-86a2-38471f1e4502","type":"consent.given","domain":"www.website.com","user":{"id":"09fcb803-2779-4096-bcfd-0fb1afef684a","consent":true,"country":"US"}}
-{"timestamp":"2020-01-21T00:49:34Z","id":"7777100a-2b2e-4c89-a339-b4e885d005e6","type":"pageview","domain":"www.website.com","user":{"id":"09fcb803-2779-4096-bcfd-0fb1afef684a","consent":true,"country":"US"}}
